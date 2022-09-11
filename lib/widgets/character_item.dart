@@ -37,7 +37,7 @@ class CharacterIem extends StatelessWidget {
                 Positioned(
                   bottom: 30,
                   child: Container(
-                    height: 50,
+                    height: 80,
                     width: 160,
                     alignment: Alignment.centerLeft,
                     padding: EdgeInsets.only(left: 40),
